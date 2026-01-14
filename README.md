@@ -20,11 +20,12 @@ Through building this project, I strengthened my understanding of responsive des
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Portfolio Project Showcase](#portfolio-project-showcase)
 - [Features](#features)
 - [Credits](#credits)
-- [License](#license)
 - [Badges](#badges)
 - [How to Contribute](#how-to-contribute)
+- [License](#license)
 
 ---
 
@@ -36,3 +37,19 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+Navigate to the project directory:
+```
+2. Navigate to the project directory:
+
+```bash
+cd your-repo-name
+```
+3. Open index.html in your browser.
+(No additional dependencies or build tools required)
+
+### Usage
+
+* Browse featured projects with descriptions and links
+* View skills, technologies, and experience
+* Access external links to GitHub and live demos
+* Use the contact section to reach out directly
