@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-### 🌐 Live Demo  
+### Live Demo  
 View the live deployment of my portfolio website:  
 👉 https://darrenvandervelde.free.nf
 
@@ -64,3 +64,22 @@ cd your-repo-name
 * Project showcase with live links
 * Integrated GitHub and external resources
 * Lightweight and fast-loading static site
+
+### Credits
+* Developer: Darren van der Velde
+* Fonts: Google Fonts
+* Icons & UI Inspiration: Open-source resources and modern portfolio best practices
+
+### Badges
+
+### License
+
+
+---
+
+✅ This is **fully Markdown-ready** and structured for a professional GitHub portfolio.  
+
+I can also **make it visually enhanced** with **live screenshots inline, GitHub badges for stars/forks, and a skills section** so it looks even more recruiter-friendly.  
+
+Do you want me to do that next?
+
