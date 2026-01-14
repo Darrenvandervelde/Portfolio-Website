@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Darren van der Velde — Portfolio</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="Profile" onclick="window.open('https://github.com/darrenvandervelde', '_blank')">
+            <h2>Darren van der Velde</h2>
+        </div>
+        <button class="theme-toggle" onclick="toggleTheme()">Dark Mode</button>
+    </header>
+    <section class="hero">
+        <h1>Hello, I’m <span style="color:var(--accent);">Darren</span></h1>
+        <p>Developer & Designer crafting smooth and interactive user experiences with modern web technologies.</p>
+        <a href="https://github.com/darrenvandervelde" target="_blank" class="btn">Visit My GitHub</a>
+    </section>
+    <section class="data">
+        <h2>Active Table</h2>
+        <img src="https://ghchart.rshah.org/darrenvandervelde" alt="GitHub Contributions Chart" />
+        <p><strong>Notice: </strong>Updates once a day</p>
+    </section>
+    <section class="aboutMe">
+        <h2>About Me</h2>
+        <p>
+            Developer & Designer crafting smooth and interactive user experiences with modern web technologies.
+            Passionate about creating <strong>responsive websites</strong>, <strong>intuitive interfaces</strong>, and <strong>efficient web applications</strong> that delight users.
+            Experienced in <strong>JavaScript, HTML, CSS, React, and Three.js</strong>, with a keen eye for <strong>UI/UX design</strong> and <strong>performance optimization</strong>.
+            Always exploring <strong>new technologies</strong>, building <strong>creative solutions</strong>, and contributing to <strong>open-source projects</strong>.
+            Let's transform ideas into <strong>beautiful, functional web experiences</strong>.
+        </p>
+        <h3 class="SkillHeader">Skills</h3>
+        <div class="Skills">
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Tailwind CSS</li>
+                <li>Python</li>
+                <li>PHP</li>
+                <li>JavaScript</li>
+                <li>Typescript</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>Git</li>
+                <li>GitHub</li>
+            </ul>
+        </div>
+    </section>
+    <section class="projects" style="">
+        <h2 style="">Latest GitHub Projects</h2>
+        <div class="project-grid" id="repo-list">
+            <p>Loading projects...</p>
+        </div>
+    </section>
+    <section class="contactMe">
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project.</p>
+        <div class="social-links">
+            <!-- GitHub -->
+            <a href="https://github.com/darrenvandervelde" target="_blank" rel="noopener" class="social-btn" title="GitHub">
+                <svg height="24" width="24" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.62 7.62 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+            </a>
+            <!-- LinkedIn -->
+            <a href="https://www.linkedin.com/in/darren-van-der-velde" target="_blank" rel="noopener" class="social-btn" title="LinkedIn">
+                <svg height="24" width="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11.75 19h-3v-10h3v10zm-1.5-11.268c-.966 0-1.75-.784-1.75-1.75s.784-1.75 1.75-1.75 1.75.784 1.75 1.75-.784 1.75-1.75 1.75zm13.25 11.268h-3v-5.604c0-1.337-.026-3.062-1.866-3.062-1.867 0-2.153 1.459-2.153 2.968v5.698h-3v-10h2.879v1.367h.041c.401-.761 1.379-1.562 2.839-1.562 3.036 0 3.595 2.0 3.595 4.6v5.6z"/>
+                </svg>
+            </a>
+        </div>
+    </section>
+    <script src="base.js"></script>
+    </body>
+</html>
