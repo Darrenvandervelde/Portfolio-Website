@@ -23,6 +23,8 @@ Through building this project, I strengthened my understanding of responsive des
 - [Features](#features)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [How to Contribute](#how-to-contribute)
 
 ---
 
@@ -31,49 +33,6 @@ Through building this project, I strengthened my understanding of responsive des
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd your-repo-name
-Open index.html in your browser
-(No additional dependencies or build tools required)
-
-Usage
-Browse featured projects with descriptions and links
-
-View skills, technologies, and experience
-
-Access external links to GitHub and live demos
-
-Use the contact section to reach out directly
-
-Screenshots
-To add screenshots:
-
-md
-Copy code
-![Portfolio Homepage](assets/images/portfolio-home.png)
-Features
-Responsive and mobile-friendly layout
-
-Clean, modern UI design
-
-Project showcase with live links
-
-Integrated GitHub and external resources
-
-Lightweight and fast-loading static site
-
-Credits
-Developer: Darren van der Velde
-
-Fonts: Google Fonts
-
-Icons & UI Inspiration: Open-source resources and modern portfolio best practices
-
-License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project with proper attribution.
+```bash
+git clone https://github.com/your-username/your-repo-name.git
