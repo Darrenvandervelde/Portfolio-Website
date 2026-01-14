@@ -53,3 +53,14 @@ cd your-repo-name
 * View skills, technologies, and experience
 * Access external links to GitHub and live demos
 * Use the contact section to reach out directly
+
+### Screenshots
+![Portfolio Homepage](assets/images/portfolio-home.png)
+
+### Features
+
+* Responsive and mobile-friendly layout
+* Clean, modern UI design
+* Project showcase with live links
+* Integrated GitHub and external resources
+* Lightweight and fast-loading static site
